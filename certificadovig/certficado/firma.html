@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<canvas id="myCanvas" width="900" height="150" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+nombre = "Oscar Gonzalez";
+
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+ctx.strokeText(nombre, 10, 140);
+</script>
+
+</body>
+</html>
