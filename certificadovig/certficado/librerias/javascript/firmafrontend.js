@@ -351,4 +351,4 @@ function ejecutar(){
 }
 
 ejecutar();
-location.href ="http://localhost/web/prueba_descarga_github/vigil/vista/certificado_frontend.php";
+location.href ="http://localhost/web/OurCRUD/proyectos/vigil/vista/certificado_frontend.php";
