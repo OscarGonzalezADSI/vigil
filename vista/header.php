@@ -17,6 +17,7 @@
                 <li><a href="ficha.php">ficha</a></li>
                 <li><a href="matricula.php">matricula</a></li>
                 <li><a href="certificado.php">certificado</a></li>
+                <li><a href="certificado_frontend.php">certificado_frontend</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><?php echo "<a href='../modelo/salir.php'><span class='glyphicon glyphicon-log-in'></span> Cerrar sesión </a>" ?></li>
